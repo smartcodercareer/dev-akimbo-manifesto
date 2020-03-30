@@ -1,4 +1,4 @@
-# dev-akimbo-manifest
+# Dev Akimbo Manifest
 
 1. Not only IT career but a smart IT career.
 

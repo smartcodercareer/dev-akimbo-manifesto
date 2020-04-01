@@ -66,7 +66,7 @@ This is a collaborative effort. We welcome all contributions submitted as pull r
 
 Your contribution to wording and style are also welcome.
 
-*We will publish a list of contributors below, with the link to their Github profiles!*
+**We will publish a list of contributors below, with the link to their Github profiles!**
 
 ## Our Amazing Contributors Who Care
 

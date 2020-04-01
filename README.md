@@ -47,9 +47,10 @@ We created a set of rules to empowers us in our journey.
 11. I strive not only to be a better coder but a better person.
 
 12. I have a code-life balance. I enjoy the ride!
+<br />
 
-
-"People like us do things like this." - Seth Godin
+> "People like us do things like this." - Seth Godin
+<br />
 
 If you disagree, but you want to contribute, please send us a pull request.
 

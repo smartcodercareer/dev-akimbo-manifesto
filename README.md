@@ -71,4 +71,3 @@ Your contribution to wording and style are also welcome.
 ## Our Amazing Contributors Who Care
 
 * You
-* [Adam Faryna](https://github.com/adamfaryna)

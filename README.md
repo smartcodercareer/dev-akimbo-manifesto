@@ -6,19 +6,19 @@ As an Akimbo Developers, we are proud of our craft, and we know our work matters
 
 ## Who we are
 
-We are developers who care, not only about crafting great code but about creating lives worth living for our families, for community and ourselves.✊
+We are developers who care, not only about crafting great code but about creating lives worth living for our families, for community and ourselves ✊
 
-We don't point fingers at others laughing when they make a mistake. We help them grow to become a better programmer and human being. We want win-win relationships, nothing less.🧑‍🤝‍🧑
+We don't point fingers at others laughing when they make a mistake. We help them grow to become a better programmer and human being. We want win-win relationships, nothing less 🧑‍🤝‍🧑
 
-We are committed to building an IT career, giving our best selves. But we won't let to be used or sold as a commodity on the market.💰
+We are committed to building an IT career, giving our best selves. But we won't let to be used or sold as a commodity on the market 💰
 
 We won't let random people be the masters of our lives. We claim control of our lifes and our families' future.
 
-We plan our careers in the way we will be where we want to be, earn what we want to earn, and spend time with people we choose.👏
+We plan our careers in the way we will be where we want to be, earn what we want to earn, and spend time with people we choose 👏
 
-Vim, Emacs, Visual Studio Code, Sublime Text, Abrakadabra Editor doesn't matter. PHP, Ruby, Java, Javascript doesn't matter. We are all developers, and we are all want to do our best. We will not waste our talents and our precious time for meaningless holy wars and trolling. We are better than that. There are more important things that really matter. 🙌
+Vim, Emacs, Visual Studio Code, Sublime Text, Abrakadabra Editor doesn't matter. PHP, Ruby, Java, Javascript doesn't matter. We are all developers, and we are all want to do our best. We will not waste our talents and our precious time for meaningless holy wars and trolling. We are better than that. There are more important things that really matter 🙌
 
-If you don't feel like it, you are free to leave. 🚪
+If you don't feel like it, you are free to leave 🚪
 
 ## Guidance
 

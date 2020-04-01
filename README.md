@@ -42,7 +42,7 @@ We created a set of rules to empowers us in our journey.
 
 9. I'm a good host for newcomers.
 
-10. I learn and share it.
+10. I learn and share.
 
 11. I strive not only to be a better coder but a better person.
 
